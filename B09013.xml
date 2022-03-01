@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for apporbation and admission of ministers of the gospel to benefices and publique lectures</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09013</idno>
+            <idno type="STC">Wing E1001A</idno>
+            <idno type="STC">ESTC R176065</idno>
+            <idno type="EEBO-CITATION">62369194</idno>
+            <idno type="OCLC">ocm 62369194</idno>
+            <idno type="VID">187884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187884)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for apporbation and admission of ministers of the gospel to benefices and publique lectures</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater and John Macock, Printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Friday, March 16, 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, Clerk of the Parliament."</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187884:1" rendition="simple:additions"/>
+            <p>AN ACT For Approbation and Admiſſion of Miniſters of the Goſpel TO <hi>Benefices</hi> and <hi>Pulique Lectures.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Friday, <hi>March</hi> 16. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, <hi>That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>THOMAS S<hi rend="sup">t</hi> NICHOLAS,</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:187884:2"/>
+            <pb n="3" facs="tcp:187884:2" rendition="simple:additions"/>
+            <head>AN ACT For Approbation and Admiſsion OF MINISTERS OF THE GOSPEL TO <hi>Benefices</hi> and <hi>Publick Lectures.</hi>
+            </head>
+            <p>FOraſmuch as it is the Duty and Inte<g ref="char:EOLhyphen"/>reſt of Magiſtrates to take Care of the Church and of the Proviſion of godly and able Miniſters for it, Be it enacted, That every Perſon who ſhall from and after the fifteénth day of <hi>March,</hi> One thouſand ſix hundred
+<pb n="4" facs="tcp:187884:3"/> fifty and nine be preſented, nominated, choſen or appointed to any Benefice, formerly called <hi>Bene<g ref="char:EOLhyphen"/>fice</hi> with Care of Souls, or to preach any Publick ſettled Lecture in <hi>England</hi> or <hi>Wales,</hi> ſhall before he be admitted unto any ſuch Benefice or Lecture, be judged and approved by the Perſons hereafter named, to be a Perſon of godly life and ſufficient abilities for the work of the Miniſtry, and a Per<g ref="char:EOLhyphen"/>ſon ordained thereunto. And that no Perſon to be preſented after the ſaid fifteenth day of <hi>March,</hi> but ſuch as ſhall be ſo approved and admitted, ſhall be a publick Preacher, or take or receive any ſuch Benefice as aforeſaid or the Profits thereof. And be it further Enacted, That Doctor <hi>Rey<g ref="char:EOLhyphen"/>nolds,</hi> Mr <hi>Calamye,</hi> Mr <hi>Manton,</hi> Mr <hi>Aſh,</hi> Mr <hi>Ha<g ref="char:EOLhyphen"/>viland,</hi> Mr <hi>Jacombe,</hi> Mr <hi>Jenkin,</hi> Mr <hi>Cooper,</hi> Mr <hi>Caſe,</hi> Doctor <hi>Spurſtow,</hi> Mr <hi>Bates,</hi> Mr <hi>Poole,</hi> Mr <hi>Woodcock,</hi> Doctor <hi>Drake,</hi> Mr <hi>Nalton,</hi> Mr <hi>Whi<g ref="char:EOLhyphen"/>taker,</hi> Mr <hi>Guibon,</hi> Mr <hi>Carryl,</hi> Mr <hi>Jackſon,</hi> Mr <hi>Row,</hi> Mr <hi>Sangar,</hi> Mr <hi>Sheffeild,</hi> Mr <hi>Barker,</hi> Mr <hi>Wat<g ref="char:EOLhyphen"/>ſon,</hi> Mr <hi>Taylor,</hi> Mr <hi>Lye,</hi> Mr <hi>Ralph Breddock,</hi> Mr <hi>George Griffith,</hi> Mr <hi>John Meriton,</hi> Doctor <hi>Ho<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on,</hi> Doctor <hi>Anneſley,</hi> ſhall be and are h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nominated, conſtituted and appointed Commiſſio<g ref="char:EOLhyphen"/>ners for ſuch approbation &amp; admiſſion as is afore<g ref="char:EOLhyphen"/>ſaid; And the ſaid Commiſſioners, or any five or more of them met together in <hi>London,</hi> are hereby authorized to Iudge and take knowledge of the ability and fitneſs of any Perſon ſo preſented, no<g ref="char:EOLhyphen"/>minated, choſen or appointed, according to the Qualification above-mentioned; And upon their approbation of ſuch his ability and fitneſs, to Grant unto ſuch Perſon admiſſion to ſuch Bene<g ref="char:EOLhyphen"/>fice or Lecture by an Inſtrument in Writing un<g ref="char:EOLhyphen"/>der a Common Seal to be appointed by the ſaid Commiſſioners or any five of them, and under
+<pb n="5" facs="tcp:187884:3" rendition="simple:additions"/> the hand of the Regiſter for the time being to be alſo nominated by the ſaid Commiſſioners or the great<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r number of them; which Inſtrument, the ſaid Regiſter ſhall cauſe to be entred in a Book for that purpoſe, and kept upon Record.</p>
+            <p>And it is hereby Enacted, That the ſaid Perſon ſo admitted into any ſuch Benefice, ſhall be Poſſeſſor and perfect Incumbent to all intents and purpoſes of the ſame, and intituled thereby to all the Profits, Perquiſites, Rights and Dues incident and belonging thereunto, as alſo the Per<g ref="char:EOLhyphen"/>ſon that ſhall be ſo admitted to any Lecture as aforeſaid, ſhall be thereby enabled (according to the Eſtabliſhment and Conſtitution of ſuch Le<g ref="char:EOLhyphen"/>cture) to preach ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, and to have and r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceive the Stipend or Profits to ſuch Lecture belonging.</p>
+            <p>Provided alwaies, That no Perſon who ſhall be nominated or preſented for approbation as aforeſaid, ſhall be concluded by any Vote of the ſaid Commiſſioners which ſhall paſſe in the ne<g ref="char:EOLhyphen"/>gative as to his approbation, unleſs for reaſona<g ref="char:EOLhyphen"/>ble Cauſe, and that nine or more of the ſaid Commiſſioners be preſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt at ſuch Vote; And that the names of the Refuſers be regiſtred in a Book to be kept for that purpoſe, whereunto any Perſon may reſort.</p>
+            <p>And it is further Enacted, That all Patrons of any Benefices that are now void, ſhall within ſix moneths next after the 15<hi rend="sup">th</hi> day of <hi>March</hi> aforeſaid, and of any Benefice that ſhall hereafter be void, within ſix moneths next after the avoydance of the ſame, Preſent unto the ſaid Commiſſioners or any five of them, ſome fit Perſon to be admitted; and for default of ſuch Preſentation within that time, the Preſentation for that turn ſhall devolve by Lapſe unto the Chancellor and Scholars of the Vniverſities of <hi>Oxford</hi> and <hi>Cambridge</hi> reſpe<g ref="char:EOLhyphen"/>ctively,
+<pb n="6" facs="tcp:187884:4"/> according to the Diſtribution of the Sta<g ref="char:EOLhyphen"/>tute in the Caſe of Popiſh Recuſants in the third year of the late King <hi>James,</hi> Chapter the fifth.</p>
+            <p>Provided that the Patrons, any time before the Vniverſity have preſented, may have the ſame Li<g ref="char:EOLhyphen"/>berty to preſent their Clarks after the ſix moneths Lapſe incurred, as according to Law they might have done in former times.</p>
+            <p>And be it further enacted, That the Patron or Patrons ſhall have the ſame remedy againſt the Commiſſioners aforeſaid, as in like caſe he or they had againſt the Ordinary heretofore, and alſo a<g ref="char:EOLhyphen"/>gainſt Diſturbers; And that in caſe of ſuit to be had againſt the Commiſſioners, it ſhall be ſuffici<g ref="char:EOLhyphen"/>ent without naming any Perſon, to bring ſuch ſuit againſt them by the name of Commiſſioners for approbation and admiſſion of Miniſters, and Proceſs againſt them ſhewn to, and a Copy thereof delivered by the Sheriff or his Miniſters to the Regiſter, be a ſufficient ſerving of ſuch Pro<g ref="char:EOLhyphen"/>ceſs, and ſhall be a ſufficient Warrant for the She<g ref="char:EOLhyphen"/>riff to return the Proceſs ſerved.</p>
+            <p>Provided alſo, and be it hereby enacted, That ſhe Courts in which ſuch ſuits ſhall be, are hereby reſpectively enabled to award any Writ to the Sheriff of the County where ſuch Benefice or Le<g ref="char:EOLhyphen"/>cture ſhall be for the putting of any Clark into poſſeſſion, as heretofore they might have done to any Biſhop or Metropolitan.</p>
+            <p>Be it further enacted, That the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners or any nine of them, ſhall have power by writing under their Seal, to nominate foure or more Perſons of known Piety and Learning, for and in every County of <hi>England</hi> and <hi>Wales,</hi> who or any threé of them ſo nominated in their reſpe<g ref="char:EOLhyphen"/>ctive Counties, ſhall have power to examine ſuch Perſon as ſhall be preſented or nominated to any
+<pb n="7" facs="tcp:187884:4"/> Benefice, or is to be admitted to any Lecture with<g ref="char:EOLhyphen"/>in the ſaid reſpective Counties, touching his fit<g ref="char:EOLhyphen"/>neſs and abilities for the ſame, and to Certifie in writing with their names ſubſcribed, their Opi<g ref="char:EOLhyphen"/>nion and Iudgment thereupon to the Commiſſio<g ref="char:EOLhyphen"/>ners herein named; And in caſe that Certificate ſhalbe made of the fitneſs &amp; ability of ſuch Perſon, the Commiſſioners ſhal proceed thereupon to admit him, as fully to all intents as if that he had been examined and approved by themſelves. And it is further Enacted, That during the vacancy of ſuch Benefices, in default of ſuch Preſentation, the ſaid Commiſſioners or any five or more of them, have hereby Authority to ſequeſter the Fruits &amp; Pro<g ref="char:EOLhyphen"/>fits thereof, for providing an able and godly Prea<g ref="char:EOLhyphen"/>cher to ſerve the Cure, &amp; giving him a reaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable allowance, rendring the Over-plus to the next In<g ref="char:EOLhyphen"/>cumbent. And be it further declared and Enact<g ref="char:EOLhyphen"/>ed, That no perſon ſhall be admitted unto ſuch Benefice or Lecture, unleſs hee bring with him a Teſtimonial or Certificate from three Miniſters of the Goſpel of known piety and learning, and do alſo give ſatisfaction of his fitneſs to the ſaid Commiſſioners or any five of them. And where<g ref="char:EOLhyphen"/>as for the better maintainance of Preaching Mi<g ref="char:EOLhyphen"/>niſters, ſeveral Augmentations have been hereto<g ref="char:EOLhyphen"/>fore granted, Be it further Enacted, That all per<g ref="char:EOLhyphen"/>ſons or p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſon to whom after the ſaid 15<hi rend="sup">th</hi> day of <hi>March</hi> any Augmentation ſhall be granted, before he or they receive the ſame, ſhall obtain the approbation of the ſaid Commiſſioners or five of them as a perſon qualified, as is before mentio<g ref="char:EOLhyphen"/>ned; And in caſe of approbation, ſuch approbation ſhall be entred by the ſaid Regiſter, who under his hand ſhall alſo ſignifie the ſame to ſuch perſon or perſons as are or ſhalbe authorized to pay ſuch
+<pb n="8" facs="tcp:187884:5"/> Augmentation, who are hereby required and au<g ref="char:EOLhyphen"/>thorized from time to time to pay the perſon or per<g ref="char:EOLhyphen"/>ſons ſo approved, ſuch Augmentation as ſhall be granted as aforeſaid unto him or the place where he preacheth, taking his or their Acquittances for the ſame. Provided, and it is hereby declared, that this Act, or any thing therein contained, ſhall not be conſtrued to extend unto any Benefices Ec<g ref="char:EOLhyphen"/>cleſiaſtical, that were not preſentative before the Ordinance for the Abolition of Biſhops, nor to any Lectures preacht or read in any of the Vni<g ref="char:EOLhyphen"/>verſities or other Colledges.</p>
+            <p>Provided alſo, and be it hereby Enacted, That all Miniſters having Parochial Charge, do read the Scriptures, Preach, Adminiſter the Sacra<g ref="char:EOLhyphen"/>ments of <hi>Baptiſme</hi> and the <hi>Lords Supper,</hi> Cate<g ref="char:EOLhyphen"/>chize, and perform all other Duties according to the Directory for the Publick Worſhip of God, eſtabliſhed by Ordinance of Parliament the third of <hi>January 1644.</hi>
+            </p>
+            <p>Provided alſo, and be it hereby Enacted, That the Feés upon every Approbation and Admiſſion, be only Thirteén ſhillings and Four pence; <hi>that is,</hi> To the Regiſter, ſix ſhillings eight pence only; &amp; the other ſix ſhillings eight pence to be diſpoſed of for the defraying of incident Charges, as the ſaid Commiſſioners or any five of them ſhall appoint.</p>
+            <p>And be it further Enacted and Ordained, That ſuch Perſons or any five or more of them that the Commiſſioners in this Act named from time to time according to the Inſtructions menti<g ref="char:EOLhyphen"/>oned in this Act, ſhall nominate and appoint in the reſpective Counties of <hi>England</hi> and <hi>Wales</hi> for the approving of Preaching Miniſters unto Livings, with Cure and Lectures in their reſpective Counties, ſhall from time
+<pb n="9" facs="tcp:187884:5" rendition="simple:additions"/> to time have Power and Authority; And are hereby Authorized to ordain Preaching Mini<g ref="char:EOLhyphen"/>ſters in their reſpective Counties, according to the Form and Directions of an Ordinance of the Lords and Commons in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled of the <hi>29.</hi> of <hi>Auguſt, 1648,</hi> Intituled, <hi>The Form of Church-Government to be uſed in <hi>England</hi> and <hi>Ireland,</hi>
+               </hi> So as ſuch Perſons, no<g ref="char:EOLhyphen"/>minated as aforeſaid, be Ordained Mini<g ref="char:EOLhyphen"/>ſters.</p>
+            <p>And Be it further Enacted and Ordained, That the publick Profeſſors of Divinity, and the Divinity Lecturers, and the Heads of the Houſes reſpectively, in the reſpective Vniver<g ref="char:EOLhyphen"/>ſities of <hi>Oxford</hi> and <hi>Cambridge,</hi> or any Five or more of them, being Miniſters Ordained, ſhall from time to time have power and authority, and are hereby authorized to Ordain Preaching Miniſters in the ſaid reſpective Vniverſities, according to the Form and Directions of the ſaid Ordinance of the Lords and Commons of the <hi>29</hi> of <hi>Auguſt, 1648.</hi>
+            </p>
+            <p>And Be it further Enacted, That the ſaid Ordinance of the <hi>29.</hi> of <hi>Auguſt, 1648,</hi> Intitu<g ref="char:EOLhyphen"/>led, <hi>The Form of Church-Government to be uſed in <hi>England</hi> and <hi>Ireland,</hi>
+               </hi> ſhall ſtand and be in force, and put in Execution. And whereas in the ſaid Ordinance of Lords and Commons, bear<g ref="char:EOLhyphen"/>ing Date the <hi>29.</hi> Day of <hi>Auguſt, 1648,</hi> there was a Clauſe inſerted for the dividing of the ſeveral Counties of <hi>England</hi> and <hi>Wales</hi> into diſtinct Claſſicall Presbyteries, where they were not already divided, which was not put in Execution accordingly, by reaſon whereof that work remains yet undone, Be it therefore En<g ref="char:EOLhyphen"/>acted, That the ſeveral Iuſtices of the Peace
+<pb n="10" facs="tcp:187884:6"/> in the reſpective Counties, Cities, and places, within <hi>England</hi> and <hi>Wales,,</hi> or any Five or more of them, of the ſeveral Counties of <hi>England</hi> and <hi>Wales,</hi> with the aſſiſtance of ſuch Miniſters and others, as they ſhall think fit, Do forth<g ref="char:EOLhyphen"/>with meet and conſider how their ſeverall Counties reſpectively may be moſt convenient<g ref="char:EOLhyphen"/>ly divided into diſtinct Claſſical Presbyteries, where they are not already divided; and what Miniſters and others are fit to be of each Claſ<g ref="char:EOLhyphen"/>ſis: And they ſhall accordingly make ſuch Di<g ref="char:EOLhyphen"/>viſion and Nomination of Perſons for each Claſſical Presbytery: Which Diviſions and Perſons ſo named for every Diviſion, ſhall be certified by the ſaid Commiſſioners to the Lord Keeper, or Lords Commiſſioners for Cuſtody of the Great Seal for the time being. And that the Chancellor, Vice-Chancellors, and Heads of the Vniverſities, do likewiſe conſider how the Colledges and Halls may be put into Claſ<g ref="char:EOLhyphen"/>ſical Presbyteries, and do certifie the ſame up to the ſaid Lord Keeper, or Lords Commiſſio<g ref="char:EOLhyphen"/>ners for Cuſtody of the Great Seal. And that the ſaid Certificate be made before the <hi>29.</hi> Day of <hi>September</hi> next, which the Council of State is required to approve and confirm the ſame as they ſhall think fit, immediately upon receipt of ſuch Certificates, and cauſe the ſame to be Re<g ref="char:EOLhyphen"/>giſtred by the Clerk of the Commonwealth in <hi>Chancery.</hi> Provided, That this Act, and every thing therein contained, ſhall be and ſtand in force onely untill the Parliament take further Order.</p>
+         </div>
+         <div type="license">
+            <pb n="11" facs="tcp:187884:6"/>
+            <opener>
+               <dateline>
+                  <date>Wedneſday, <hi>March</hi> 14. 1659.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, <hi>That this Act be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>THOMAS St. NICHOLAS, <hi>Clerk of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+            <pb facs="tcp:187884:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
